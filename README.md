@@ -1,6 +1,5 @@
 <h2 align="center">Installation</h2>
-<p allign="center">You can also find this repository on <a href="https://gitlab.com/farshadzargary1997/Microsoft-Rewards-bot">Gitlab</a>.
-You can use the simple installation guide <a href="https://github.com/farshadz1997/Microsoft-Rewards-bot/blob/master/setup.md">here</a>.</p>
+You can use the simple installation guide <a href="https://github.com/followDev/Python-Bot-From-Microsoft-Rewards/blob/master/setup.md">here</a>.</p>
 
 <p>For setting up the bot in termux ( android ), follow <a href="./setup.md#setup-microsoft-rewards-bot-in-termux">here</a>
 
@@ -35,7 +34,7 @@ You can use the simple installation guide <a href="https://github.com/farshadz19
 
 </li>
     <li>Due to the limits of Ipapi sometimes it returns an error, and it causes the bot to stop. So you can define the default language and location to prevent it from 
-      <a href="https://github.com/farshadz1997/Microsoft-Rewards-bot/blob/479b2d4b25761d245dc6b3519627162a44d8f85b/ms_rewards_farmer.py#L367">here</a>.</li>
+      <a href="https://github.com/followDev/Python-Bot-From-Microsoft-Rewards/blob/479b2d4b25761d245dc6b3519627162a44d8f85b/ms_rewards_farmer.py#L367">here</a>.</li>
     <li>Run the script</li>
       <ul>
         <li>Use optional arguments</li>
